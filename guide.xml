@@ -1,0 +1,1214 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="PRIME NEWS TV">
+    <display-name lang="en">PRIME NEWS TV</display-name>
+    <url>http://www.dummy</url>
+  </channel>
+  <channel id="Globo Sp">
+    <display-name lang="pt">Globo Sp</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/grd.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO RJ">
+    <display-name lang="pt">GLOBO RJ</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/grd.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Megapix">
+    <display-name lang="pt">Megapix</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/mpx.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20230425000000 +0100" stop="20230425235900 +0100" channel="PRIME NEWS TV">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20230426000000 +0100" stop="20230426235900 +0100" channel="PRIME NEWS TV">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20230427000000 +0100" stop="20230427235900 +0100" channel="PRIME NEWS TV">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20230428000000 +0100" stop="20230428235900 +0100" channel="PRIME NEWS TV">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20230429000000 +0100" stop="20230429235900 +0100" channel="PRIME NEWS TV">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20230430000000 +0100" stop="20230430235900 +0100" channel="PRIME NEWS TV">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20230501000000 +0100" stop="20230501235900 +0100" channel="PRIME NEWS TV">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20230502000000 +0100" stop="20230502235900 +0100" channel="PRIME NEWS TV">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20230503000000 +0100" stop="20230503235900 +0100" channel="PRIME NEWS TV">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20230504000000 +0100" stop="20230504235900 +0100" channel="PRIME NEWS TV">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20230424212000 -0300" stop="20230424222500 -0300" channel="Globo Sp">
+    <title lang="pt">Travessia</title>
+  </programme>
+  <programme start="20230424222500 -0300" stop="20230424234500 -0300" channel="Globo Sp">
+    <title lang="pt">Big Brother Brasil 23</title>
+  </programme>
+  <programme start="20230424234500 -0300" stop="20230425014000 -0300" channel="Globo Sp">
+    <title lang="pt">Tela Quente: Linha Reta</title>
+  </programme>
+  <programme start="20230425014000 -0300" stop="20230425023000 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20230425023000 -0300" stop="20230425031000 -0300" channel="Globo Sp">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20230425031000 -0300" stop="20230425040000 -0300" channel="Globo Sp">
+    <title lang="pt">Reapresentação</title>
+  </programme>
+  <programme start="20230425040000 -0300" stop="20230425060000 -0300" channel="Globo Sp">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20230425060000 -0300" stop="20230425083000 -0300" channel="Globo Sp">
+    <title lang="pt">Bom Dia SP</title>
+  </programme>
+  <programme start="20230425083000 -0300" stop="20230425093000 -0300" channel="Globo Sp">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20230425093000 -0300" stop="20230425103500 -0300" channel="Globo Sp">
+    <title lang="pt">Encontro com Patrícia Poeta</title>
+  </programme>
+  <programme start="20230425103500 -0300" stop="20230425114500 -0300" channel="Globo Sp">
+    <title lang="pt">Mais Você</title>
+  </programme>
+  <programme start="20230425114500 -0300" stop="20230425130000 -0300" channel="Globo Sp">
+    <title lang="pt">SP1</title>
+  </programme>
+  <programme start="20230425130000 -0300" stop="20230425132500 -0300" channel="Globo Sp">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20230425132500 -0300" stop="20230425144500 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20230425144500 -0300" stop="20230425153000 -0300" channel="Globo Sp">
+    <title lang="pt">Chocolate com Pimenta</title>
+  </programme>
+  <programme start="20230425153000 -0300" stop="20230425171500 -0300" channel="Globo Sp">
+    <title lang="pt">Sessão da Tarde</title>
+  </programme>
+  <programme start="20230425171500 -0300" stop="20230425182500 -0300" channel="Globo Sp">
+    <title lang="pt">Vale a Pena Ver de Novo: O Rei do Gado</title>
+  </programme>
+  <programme start="20230425182500 -0300" stop="20230425191000 -0300" channel="Globo Sp">
+    <title lang="pt">Amor Perfeito</title>
+  </programme>
+  <programme start="20230425191000 -0300" stop="20230425194000 -0300" channel="Globo Sp">
+    <title lang="pt">SP2</title>
+  </programme>
+  <programme start="20230425194000 -0300" stop="20230425203000 -0300" channel="Globo Sp">
+    <title lang="pt">Vai na Fé</title>
+  </programme>
+  <programme start="20230425203000 -0300" stop="20230425212000 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20230425212000 -0300" stop="20230425222500 -0300" channel="Globo Sp">
+    <title lang="pt">Travessia</title>
+  </programme>
+  <programme start="20230425222500 -0300" stop="20230426001000 -0300" channel="Globo Sp">
+    <title lang="pt">Big Brother Brasil 23</title>
+  </programme>
+  <programme start="20230426001000 -0300" stop="20230426010000 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20230426010000 -0300" stop="20230426014000 -0300" channel="Globo Sp">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20230426014000 -0300" stop="20230426022500 -0300" channel="Globo Sp">
+    <title lang="pt">Reapresentação</title>
+  </programme>
+  <programme start="20230426022500 -0300" stop="20230426031000 -0300" channel="Globo Sp">
+    <title lang="pt">Comédia Na Madruga</title>
+  </programme>
+  <programme start="20230426031000 -0300" stop="20230426040000 -0300" channel="Globo Sp">
+    <title lang="pt">Comédia Na Madruga</title>
+  </programme>
+  <programme start="20230426040000 -0300" stop="20230426060000 -0300" channel="Globo Sp">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20230426060000 -0300" stop="20230426083000 -0300" channel="Globo Sp">
+    <title lang="pt">Bom Dia SP</title>
+  </programme>
+  <programme start="20230426083000 -0300" stop="20230426093000 -0300" channel="Globo Sp">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20230426093000 -0300" stop="20230426103500 -0300" channel="Globo Sp">
+    <title lang="pt">Encontro com Patrícia Poeta</title>
+  </programme>
+  <programme start="20230426103500 -0300" stop="20230426114500 -0300" channel="Globo Sp">
+    <title lang="pt">Mais Você</title>
+  </programme>
+  <programme start="20230426114500 -0300" stop="20230426130000 -0300" channel="Globo Sp">
+    <title lang="pt">SP1</title>
+  </programme>
+  <programme start="20230426130000 -0300" stop="20230426132500 -0300" channel="Globo Sp">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20230426132500 -0300" stop="20230426144500 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20230426144500 -0300" stop="20230426154000 -0300" channel="Globo Sp">
+    <title lang="pt">Chocolate com Pimenta</title>
+  </programme>
+  <programme start="20230426154000 -0300" stop="20230426171500 -0300" channel="Globo Sp">
+    <title lang="pt">Sessão da Tarde</title>
+  </programme>
+  <programme start="20230426171500 -0300" stop="20230426182500 -0300" channel="Globo Sp">
+    <title lang="pt">Vale a Pena Ver de Novo: O Rei do Gado</title>
+  </programme>
+  <programme start="20230426182500 -0300" stop="20230426191000 -0300" channel="Globo Sp">
+    <title lang="pt">Amor Perfeito</title>
+  </programme>
+  <programme start="20230426191000 -0300" stop="20230426194000 -0300" channel="Globo Sp">
+    <title lang="pt">SP2</title>
+  </programme>
+  <programme start="20230426194000 -0300" stop="20230426203000 -0300" channel="Globo Sp">
+    <title lang="pt">Vai na Fé</title>
+  </programme>
+  <programme start="20230426203000 -0300" stop="20230426213000 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20230426213000 -0300" stop="20230426223500 -0300" channel="Globo Sp">
+    <title lang="pt">Travessia</title>
+  </programme>
+  <programme start="20230426223500 -0300" stop="20230426234000 -0300" channel="Globo Sp">
+    <title lang="pt">Especial LED Luz na Educação</title>
+  </programme>
+  <programme start="20230426234000 -0300" stop="20230427004500 -0300" channel="Globo Sp">
+    <title lang="pt">Que História é Essa Porchat?</title>
+  </programme>
+  <programme start="20230427004500 -0300" stop="20230427013500 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20230427013500 -0300" stop="20230427021500 -0300" channel="Globo Sp">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20230427021500 -0300" stop="20230427030000 -0300" channel="Globo Sp">
+    <title lang="pt">Reapresentação</title>
+  </programme>
+  <programme start="20230427030000 -0300" stop="20230427040000 -0300" channel="Globo Sp">
+    <title lang="pt">Comédia Na Madruga</title>
+  </programme>
+  <programme start="20230427040000 -0300" stop="20230427060000 -0300" channel="Globo Sp">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20230427060000 -0300" stop="20230427083000 -0300" channel="Globo Sp">
+    <title lang="pt">Bom Dia SP</title>
+  </programme>
+  <programme start="20230427083000 -0300" stop="20230427093000 -0300" channel="Globo Sp">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20230427093000 -0300" stop="20230427103500 -0300" channel="Globo Sp">
+    <title lang="pt">Encontro com Patrícia Poeta</title>
+  </programme>
+  <programme start="20230427103500 -0300" stop="20230427114500 -0300" channel="Globo Sp">
+    <title lang="pt">Mais Você</title>
+  </programme>
+  <programme start="20230427114500 -0300" stop="20230427130000 -0300" channel="Globo Sp">
+    <title lang="pt">SP1</title>
+  </programme>
+  <programme start="20230427130000 -0300" stop="20230427132500 -0300" channel="Globo Sp">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20230427132500 -0300" stop="20230427144500 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20230427144500 -0300" stop="20230427154000 -0300" channel="Globo Sp">
+    <title lang="pt">Chocolate com Pimenta</title>
+  </programme>
+  <programme start="20230427154000 -0300" stop="20230427171500 -0300" channel="Globo Sp">
+    <title lang="pt">Sessão da Tarde</title>
+  </programme>
+  <programme start="20230427171500 -0300" stop="20230427182500 -0300" channel="Globo Sp">
+    <title lang="pt">Vale a Pena Ver de Novo: O Rei do Gado</title>
+  </programme>
+  <programme start="20230427182500 -0300" stop="20230427191000 -0300" channel="Globo Sp">
+    <title lang="pt">Amor Perfeito</title>
+  </programme>
+  <programme start="20230427191000 -0300" stop="20230427194000 -0300" channel="Globo Sp">
+    <title lang="pt">SP2</title>
+  </programme>
+  <programme start="20230427194000 -0300" stop="20230427203000 -0300" channel="Globo Sp">
+    <title lang="pt">Vai na Fé</title>
+  </programme>
+  <programme start="20230427203000 -0300" stop="20230427213000 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20230427213000 -0300" stop="20230427223500 -0300" channel="Globo Sp">
+    <title lang="pt">Travessia</title>
+  </programme>
+  <programme start="20230427223500 -0300" stop="20230427231000 -0300" channel="Globo Sp">
+    <title lang="pt">Cine Holliúdy</title>
+  </programme>
+  <programme start="20230427231000 -0300" stop="20230427234500 -0300" channel="Globo Sp">
+    <title lang="pt">Lady Night</title>
+  </programme>
+  <programme start="20230427234500 -0300" stop="20230428003500 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20230428003500 -0300" stop="20230428011500 -0300" channel="Globo Sp">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20230428011500 -0300" stop="20230428020000 -0300" channel="Globo Sp">
+    <title lang="pt">Reapresentação</title>
+  </programme>
+  <programme start="20230428020000 -0300" stop="20230428024500 -0300" channel="Globo Sp">
+    <title lang="pt">Comédia Na Madruga</title>
+  </programme>
+  <programme start="20230428024500 -0300" stop="20230428040000 -0300" channel="Globo Sp">
+    <title lang="pt">Corujão</title>
+  </programme>
+  <programme start="20230428040000 -0300" stop="20230428060000 -0300" channel="Globo Sp">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20230428060000 -0300" stop="20230428083000 -0300" channel="Globo Sp">
+    <title lang="pt">Bom Dia SP</title>
+  </programme>
+  <programme start="20230428083000 -0300" stop="20230428093000 -0300" channel="Globo Sp">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20230428093000 -0300" stop="20230428103500 -0300" channel="Globo Sp">
+    <title lang="pt">Encontro com Patrícia Poeta</title>
+  </programme>
+  <programme start="20230428103500 -0300" stop="20230428114500 -0300" channel="Globo Sp">
+    <title lang="pt">Mais Você</title>
+  </programme>
+  <programme start="20230428114500 -0300" stop="20230428130000 -0300" channel="Globo Sp">
+    <title lang="pt">SP1</title>
+  </programme>
+  <programme start="20230428130000 -0300" stop="20230428132500 -0300" channel="Globo Sp">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20230428132500 -0300" stop="20230428144500 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20230428144500 -0300" stop="20230428154000 -0300" channel="Globo Sp">
+    <title lang="pt">Chocolate com Pimenta</title>
+  </programme>
+  <programme start="20230428154000 -0300" stop="20230428171500 -0300" channel="Globo Sp">
+    <title lang="pt">Sessão da Tarde</title>
+  </programme>
+  <programme start="20230428171500 -0300" stop="20230428182500 -0300" channel="Globo Sp">
+    <title lang="pt">Vale a Pena Ver de Novo: O Rei do Gado</title>
+  </programme>
+  <programme start="20230428182500 -0300" stop="20230428191000 -0300" channel="Globo Sp">
+    <title lang="pt">Amor Perfeito</title>
+  </programme>
+  <programme start="20230428191000 -0300" stop="20230428194000 -0300" channel="Globo Sp">
+    <title lang="pt">SP2</title>
+  </programme>
+  <programme start="20230428194000 -0300" stop="20230428203000 -0300" channel="Globo Sp">
+    <title lang="pt">Vai na Fé</title>
+  </programme>
+  <programme start="20230428203000 -0300" stop="20230428213000 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20230428213000 -0300" stop="20230428223500 -0300" channel="Globo Sp">
+    <title lang="pt">Travessia</title>
+  </programme>
+  <programme start="20230428223500 -0300" stop="20230428232500 -0300" channel="Globo Sp">
+    <title lang="pt">Globo Repórter</title>
+  </programme>
+  <programme start="20230428232500 -0300" stop="20230429001000 -0300" channel="Globo Sp">
+    <title lang="pt">Sessão Globoplay: The Equalizer</title>
+  </programme>
+  <programme start="20230429001000 -0300" stop="20230429010000 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20230429010000 -0300" stop="20230429014000 -0300" channel="Globo Sp">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20230429014000 -0300" stop="20230429022500 -0300" channel="Globo Sp">
+    <title lang="pt">Reapresentação</title>
+  </programme>
+  <programme start="20230429022500 -0300" stop="20230429031000 -0300" channel="Globo Sp">
+    <title lang="pt">Comédia Na Madruga</title>
+  </programme>
+  <programme start="20230429031000 -0300" stop="20230429043500 -0300" channel="Globo Sp">
+    <title lang="pt">Corujão</title>
+  </programme>
+  <programme start="20230429043500 -0300" stop="20230429060000 -0300" channel="Globo Sp">
+    <title lang="pt">Corujão II</title>
+  </programme>
+  <programme start="20230429060000 -0300" stop="20230429065000 -0300" channel="Globo Sp">
+    <title lang="pt">Globo Repórter</title>
+  </programme>
+  <programme start="20230429065000 -0300" stop="20230429114500 -0300" channel="Globo Sp">
+    <title lang="pt">É de Casa</title>
+  </programme>
+  <programme start="20230429114500 -0300" stop="20230429130000 -0300" channel="Globo Sp">
+    <title lang="pt">SP1</title>
+  </programme>
+  <programme start="20230429130000 -0300" stop="20230429132500 -0300" channel="Globo Sp">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20230429132500 -0300" stop="20230429141000 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20230429141000 -0300" stop="20230429155000 -0300" channel="Globo Sp">
+    <title lang="pt">Sessão de Sábado</title>
+  </programme>
+  <programme start="20230429155000 -0300" stop="20230429183500 -0300" channel="Globo Sp">
+    <title lang="pt">Caldeirão com Mion</title>
+  </programme>
+  <programme start="20230429183500 -0300" stop="20230429192000 -0300" channel="Globo Sp">
+    <title lang="pt">Amor Perfeito</title>
+  </programme>
+  <programme start="20230429192000 -0300" stop="20230429194500 -0300" channel="Globo Sp">
+    <title lang="pt">SP2</title>
+  </programme>
+  <programme start="20230429194500 -0300" stop="20230429203000 -0300" channel="Globo Sp">
+    <title lang="pt">Vai na Fé</title>
+  </programme>
+  <programme start="20230429203000 -0300" stop="20230429212000 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20230429212000 -0300" stop="20230429222500 -0300" channel="Globo Sp">
+    <title lang="pt">Travessia</title>
+  </programme>
+  <programme start="20230429222500 -0300" stop="20230429231500 -0300" channel="Globo Sp">
+    <title lang="pt">Big Brother Brasil 23</title>
+  </programme>
+  <programme start="20230429231500 -0300" stop="20230430010500 -0300" channel="Globo Sp">
+    <title lang="pt">Altas Horas</title>
+  </programme>
+  <programme start="20230430010500 -0300" stop="20230430024500 -0300" channel="Globo Sp">
+    <title lang="pt">Supercine</title>
+  </programme>
+  <programme start="20230430024500 -0300" stop="20230430032500 -0300" channel="Globo Sp">
+    <title lang="pt">Reapresentação</title>
+  </programme>
+  <programme start="20230430032500 -0300" stop="20230430044500 -0300" channel="Globo Sp">
+    <title lang="pt">Corujão</title>
+  </programme>
+  <programme start="20230430044500 -0300" stop="20230430060000 -0300" channel="Globo Sp">
+    <title lang="pt">Corujão II</title>
+  </programme>
+  <programme start="20230430060000 -0300" stop="20230430065000 -0300" channel="Globo Sp">
+    <title lang="pt">Santa Missa</title>
+  </programme>
+  <programme start="20230430065000 -0300" stop="20230430072000 -0300" channel="Globo Sp">
+    <title lang="pt">Antena Paulista</title>
+  </programme>
+  <programme start="20230430072000 -0300" stop="20230430080500 -0300" channel="Globo Sp">
+    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+  </programme>
+  <programme start="20230430080500 -0300" stop="20230430092500 -0300" channel="Globo Sp">
+    <title lang="pt">Globo Rural</title>
+  </programme>
+  <programme start="20230430092500 -0300" stop="20230430100000 -0300" channel="Globo Sp">
+    <title lang="pt">Auto Esporte</title>
+  </programme>
+  <programme start="20230430100000 -0300" stop="20230430123000 -0300" channel="Globo Sp">
+    <title lang="pt">Esporte Espetacular</title>
+  </programme>
+  <programme start="20230430123000 -0300" stop="20230430142000 -0300" channel="Globo Sp">
+    <title lang="pt">Temperatura Máxima</title>
+  </programme>
+  <programme start="20230430142000 -0300" stop="20230430154000 -0300" channel="Globo Sp">
+    <title lang="pt">The Voice Kids</title>
+  </programme>
+  <programme start="20230430154000 -0300" stop="20230430180500 -0300" channel="Globo Sp">
+    <title lang="pt">Futebol 2023</title>
+  </programme>
+  <programme start="20230430180500 -0300" stop="20230430203000 -0300" channel="Globo Sp">
+    <title lang="pt">Domingão Com Huck</title>
+  </programme>
+  <programme start="20230430203000 -0300" stop="20230430231000 -0300" channel="Globo Sp">
+    <title lang="pt">Fantástico</title>
+  </programme>
+  <programme start="20230430231000 -0300" stop="20230501004000 -0300" channel="Globo Sp">
+    <title lang="pt">Big Brother Brasil 23</title>
+  </programme>
+  <programme start="20230501004000 -0300" stop="20230501012500 -0300" channel="Globo Sp">
+    <title lang="pt">Circuito Sertanejo</title>
+  </programme>
+  <programme start="20230501012500 -0300" stop="20230501031500 -0300" channel="Globo Sp">
+    <title lang="pt">Domingo Maior</title>
+  </programme>
+  <programme start="20230501031500 -0300" stop="20230501040000 -0300" channel="Globo Sp">
+    <title lang="pt">Comédia Na Madruga</title>
+  </programme>
+  <programme start="20230501040000 -0300" stop="20230501060000 -0300" channel="Globo Sp">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20230501060000 -0300" stop="20230501083000 -0300" channel="Globo Sp">
+    <title lang="pt">Bom Dia SP</title>
+  </programme>
+  <programme start="20230501083000 -0300" stop="20230501093000 -0300" channel="Globo Sp">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20230501093000 -0300" stop="20230501103500 -0300" channel="Globo Sp">
+    <title lang="pt">Encontro com Patrícia Poeta</title>
+  </programme>
+  <programme start="20230501103500 -0300" stop="20230501114500 -0300" channel="Globo Sp">
+    <title lang="pt">Mais Você</title>
+  </programme>
+  <programme start="20230501114500 -0300" stop="20230501130000 -0300" channel="Globo Sp">
+    <title lang="pt">SP1</title>
+  </programme>
+  <programme start="20230501130000 -0300" stop="20230501132500 -0300" channel="Globo Sp">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20230501132500 -0300" stop="20230501144500 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20230501144500 -0300" stop="20230501153000 -0300" channel="Globo Sp">
+    <title lang="pt">Chocolate com Pimenta</title>
+  </programme>
+  <programme start="20230501153000 -0300" stop="20230501171500 -0300" channel="Globo Sp">
+    <title lang="pt">Sessão da Tarde</title>
+  </programme>
+  <programme start="20230501171500 -0300" stop="20230501182500 -0300" channel="Globo Sp">
+    <title lang="pt">Vale a Pena Ver de Novo: O Rei do Gado</title>
+  </programme>
+  <programme start="20230501182500 -0300" stop="20230501191000 -0300" channel="Globo Sp">
+    <title lang="pt">Amor Perfeito</title>
+  </programme>
+  <programme start="20230501191000 -0300" stop="20230501194000 -0300" channel="Globo Sp">
+    <title lang="pt">SP2</title>
+  </programme>
+  <programme start="20230501194000 -0300" stop="20230501203000 -0300" channel="Globo Sp">
+    <title lang="pt">Vai na Fé</title>
+  </programme>
+  <programme start="20230501203000 -0300" stop="20230501212000 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20230501212000 -0300" stop="20230501222500 -0300" channel="Globo Sp">
+    <title lang="pt">Travessia</title>
+  </programme>
+  <programme start="20230501222500 -0300" stop="20230501234500 -0300" channel="Globo Sp">
+    <title lang="pt">Big Brother Brasil 23</title>
+  </programme>
+  <programme start="20230424212000 -0300" stop="20230424222500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Travessia</title>
+  </programme>
+  <programme start="20230424222500 -0300" stop="20230424234500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Big Brother Brasil 23</title>
+  </programme>
+  <programme start="20230424234500 -0300" stop="20230425014000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Tela Quente: Linha Reta</title>
+  </programme>
+  <programme start="20230425014000 -0300" stop="20230425023000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20230425023000 -0300" stop="20230425031000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20230425031000 -0300" stop="20230425040000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Reapresentação</title>
+  </programme>
+  <programme start="20230425040000 -0300" stop="20230425060000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20230425060000 -0300" stop="20230425083000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Bom Dia SP</title>
+  </programme>
+  <programme start="20230425083000 -0300" stop="20230425093000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20230425093000 -0300" stop="20230425103500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Encontro com Patrícia Poeta</title>
+  </programme>
+  <programme start="20230425103500 -0300" stop="20230425114500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Mais Você</title>
+  </programme>
+  <programme start="20230425114500 -0300" stop="20230425130000 -0300" channel="GLOBO RJ">
+    <title lang="pt">SP1</title>
+  </programme>
+  <programme start="20230425130000 -0300" stop="20230425132500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20230425132500 -0300" stop="20230425144500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20230425144500 -0300" stop="20230425153000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Chocolate com Pimenta</title>
+  </programme>
+  <programme start="20230425153000 -0300" stop="20230425171500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Sessão da Tarde</title>
+  </programme>
+  <programme start="20230425171500 -0300" stop="20230425182500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Vale a Pena Ver de Novo: O Rei do Gado</title>
+  </programme>
+  <programme start="20230425182500 -0300" stop="20230425191000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Amor Perfeito</title>
+  </programme>
+  <programme start="20230425191000 -0300" stop="20230425194000 -0300" channel="GLOBO RJ">
+    <title lang="pt">SP2</title>
+  </programme>
+  <programme start="20230425194000 -0300" stop="20230425203000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Vai na Fé</title>
+  </programme>
+  <programme start="20230425203000 -0300" stop="20230425212000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20230425212000 -0300" stop="20230425222500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Travessia</title>
+  </programme>
+  <programme start="20230425222500 -0300" stop="20230426001000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Big Brother Brasil 23</title>
+  </programme>
+  <programme start="20230426001000 -0300" stop="20230426010000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20230426010000 -0300" stop="20230426014000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20230426014000 -0300" stop="20230426022500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Reapresentação</title>
+  </programme>
+  <programme start="20230426022500 -0300" stop="20230426031000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Comédia Na Madruga</title>
+  </programme>
+  <programme start="20230426031000 -0300" stop="20230426040000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Comédia Na Madruga</title>
+  </programme>
+  <programme start="20230426040000 -0300" stop="20230426060000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20230426060000 -0300" stop="20230426083000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Bom Dia SP</title>
+  </programme>
+  <programme start="20230426083000 -0300" stop="20230426093000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20230426093000 -0300" stop="20230426103500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Encontro com Patrícia Poeta</title>
+  </programme>
+  <programme start="20230426103500 -0300" stop="20230426114500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Mais Você</title>
+  </programme>
+  <programme start="20230426114500 -0300" stop="20230426130000 -0300" channel="GLOBO RJ">
+    <title lang="pt">SP1</title>
+  </programme>
+  <programme start="20230426130000 -0300" stop="20230426132500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20230426132500 -0300" stop="20230426144500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20230426144500 -0300" stop="20230426154000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Chocolate com Pimenta</title>
+  </programme>
+  <programme start="20230426154000 -0300" stop="20230426171500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Sessão da Tarde</title>
+  </programme>
+  <programme start="20230426171500 -0300" stop="20230426182500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Vale a Pena Ver de Novo: O Rei do Gado</title>
+  </programme>
+  <programme start="20230426182500 -0300" stop="20230426191000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Amor Perfeito</title>
+  </programme>
+  <programme start="20230426191000 -0300" stop="20230426194000 -0300" channel="GLOBO RJ">
+    <title lang="pt">SP2</title>
+  </programme>
+  <programme start="20230426194000 -0300" stop="20230426203000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Vai na Fé</title>
+  </programme>
+  <programme start="20230426203000 -0300" stop="20230426213000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20230426213000 -0300" stop="20230426223500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Travessia</title>
+  </programme>
+  <programme start="20230426223500 -0300" stop="20230426234000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Especial LED Luz na Educação</title>
+  </programme>
+  <programme start="20230426234000 -0300" stop="20230427004500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Que História é Essa Porchat?</title>
+  </programme>
+  <programme start="20230427004500 -0300" stop="20230427013500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20230427013500 -0300" stop="20230427021500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20230427021500 -0300" stop="20230427030000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Reapresentação</title>
+  </programme>
+  <programme start="20230427030000 -0300" stop="20230427040000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Comédia Na Madruga</title>
+  </programme>
+  <programme start="20230427040000 -0300" stop="20230427060000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20230427060000 -0300" stop="20230427083000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Bom Dia SP</title>
+  </programme>
+  <programme start="20230427083000 -0300" stop="20230427093000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20230427093000 -0300" stop="20230427103500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Encontro com Patrícia Poeta</title>
+  </programme>
+  <programme start="20230427103500 -0300" stop="20230427114500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Mais Você</title>
+  </programme>
+  <programme start="20230427114500 -0300" stop="20230427130000 -0300" channel="GLOBO RJ">
+    <title lang="pt">SP1</title>
+  </programme>
+  <programme start="20230427130000 -0300" stop="20230427132500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20230427132500 -0300" stop="20230427144500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20230427144500 -0300" stop="20230427154000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Chocolate com Pimenta</title>
+  </programme>
+  <programme start="20230427154000 -0300" stop="20230427171500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Sessão da Tarde</title>
+  </programme>
+  <programme start="20230427171500 -0300" stop="20230427182500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Vale a Pena Ver de Novo: O Rei do Gado</title>
+  </programme>
+  <programme start="20230427182500 -0300" stop="20230427191000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Amor Perfeito</title>
+  </programme>
+  <programme start="20230427191000 -0300" stop="20230427194000 -0300" channel="GLOBO RJ">
+    <title lang="pt">SP2</title>
+  </programme>
+  <programme start="20230427194000 -0300" stop="20230427203000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Vai na Fé</title>
+  </programme>
+  <programme start="20230427203000 -0300" stop="20230427213000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20230427213000 -0300" stop="20230427223500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Travessia</title>
+  </programme>
+  <programme start="20230427223500 -0300" stop="20230427231000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Cine Holliúdy</title>
+  </programme>
+  <programme start="20230427231000 -0300" stop="20230427234500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Lady Night</title>
+  </programme>
+  <programme start="20230427234500 -0300" stop="20230428003500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20230428003500 -0300" stop="20230428011500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20230428011500 -0300" stop="20230428020000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Reapresentação</title>
+  </programme>
+  <programme start="20230428020000 -0300" stop="20230428024500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Comédia Na Madruga</title>
+  </programme>
+  <programme start="20230428024500 -0300" stop="20230428040000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Corujão</title>
+  </programme>
+  <programme start="20230428040000 -0300" stop="20230428060000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20230428060000 -0300" stop="20230428083000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Bom Dia SP</title>
+  </programme>
+  <programme start="20230428083000 -0300" stop="20230428093000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20230428093000 -0300" stop="20230428103500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Encontro com Patrícia Poeta</title>
+  </programme>
+  <programme start="20230428103500 -0300" stop="20230428114500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Mais Você</title>
+  </programme>
+  <programme start="20230428114500 -0300" stop="20230428130000 -0300" channel="GLOBO RJ">
+    <title lang="pt">SP1</title>
+  </programme>
+  <programme start="20230428130000 -0300" stop="20230428132500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20230428132500 -0300" stop="20230428144500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20230428144500 -0300" stop="20230428154000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Chocolate com Pimenta</title>
+  </programme>
+  <programme start="20230428154000 -0300" stop="20230428171500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Sessão da Tarde</title>
+  </programme>
+  <programme start="20230428171500 -0300" stop="20230428182500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Vale a Pena Ver de Novo: O Rei do Gado</title>
+  </programme>
+  <programme start="20230428182500 -0300" stop="20230428191000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Amor Perfeito</title>
+  </programme>
+  <programme start="20230428191000 -0300" stop="20230428194000 -0300" channel="GLOBO RJ">
+    <title lang="pt">SP2</title>
+  </programme>
+  <programme start="20230428194000 -0300" stop="20230428203000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Vai na Fé</title>
+  </programme>
+  <programme start="20230428203000 -0300" stop="20230428213000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20230428213000 -0300" stop="20230428223500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Travessia</title>
+  </programme>
+  <programme start="20230428223500 -0300" stop="20230428232500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Globo Repórter</title>
+  </programme>
+  <programme start="20230428232500 -0300" stop="20230429001000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Sessão Globoplay: The Equalizer</title>
+  </programme>
+  <programme start="20230429001000 -0300" stop="20230429010000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20230429010000 -0300" stop="20230429014000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20230429014000 -0300" stop="20230429022500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Reapresentação</title>
+  </programme>
+  <programme start="20230429022500 -0300" stop="20230429031000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Comédia Na Madruga</title>
+  </programme>
+  <programme start="20230429031000 -0300" stop="20230429043500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Corujão</title>
+  </programme>
+  <programme start="20230429043500 -0300" stop="20230429060000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Corujão II</title>
+  </programme>
+  <programme start="20230429060000 -0300" stop="20230429065000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Globo Repórter</title>
+  </programme>
+  <programme start="20230429065000 -0300" stop="20230429114500 -0300" channel="GLOBO RJ">
+    <title lang="pt">É de Casa</title>
+  </programme>
+  <programme start="20230429114500 -0300" stop="20230429130000 -0300" channel="GLOBO RJ">
+    <title lang="pt">SP1</title>
+  </programme>
+  <programme start="20230429130000 -0300" stop="20230429132500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20230429132500 -0300" stop="20230429141000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20230429141000 -0300" stop="20230429155000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Sessão de Sábado</title>
+  </programme>
+  <programme start="20230429155000 -0300" stop="20230429183500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Caldeirão com Mion</title>
+  </programme>
+  <programme start="20230429183500 -0300" stop="20230429192000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Amor Perfeito</title>
+  </programme>
+  <programme start="20230429192000 -0300" stop="20230429194500 -0300" channel="GLOBO RJ">
+    <title lang="pt">SP2</title>
+  </programme>
+  <programme start="20230429194500 -0300" stop="20230429203000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Vai na Fé</title>
+  </programme>
+  <programme start="20230429203000 -0300" stop="20230429212000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20230429212000 -0300" stop="20230429222500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Travessia</title>
+  </programme>
+  <programme start="20230429222500 -0300" stop="20230429231500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Big Brother Brasil 23</title>
+  </programme>
+  <programme start="20230429231500 -0300" stop="20230430010500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Altas Horas</title>
+  </programme>
+  <programme start="20230430010500 -0300" stop="20230430024500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Supercine</title>
+  </programme>
+  <programme start="20230430024500 -0300" stop="20230430032500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Reapresentação</title>
+  </programme>
+  <programme start="20230430032500 -0300" stop="20230430044500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Corujão</title>
+  </programme>
+  <programme start="20230430044500 -0300" stop="20230430060000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Corujão II</title>
+  </programme>
+  <programme start="20230430060000 -0300" stop="20230430065000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Santa Missa</title>
+  </programme>
+  <programme start="20230430065000 -0300" stop="20230430072000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Antena Paulista</title>
+  </programme>
+  <programme start="20230430072000 -0300" stop="20230430080500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+  </programme>
+  <programme start="20230430080500 -0300" stop="20230430092500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Globo Rural</title>
+  </programme>
+  <programme start="20230430092500 -0300" stop="20230430100000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Auto Esporte</title>
+  </programme>
+  <programme start="20230430100000 -0300" stop="20230430123000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Esporte Espetacular</title>
+  </programme>
+  <programme start="20230430123000 -0300" stop="20230430142000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Temperatura Máxima</title>
+  </programme>
+  <programme start="20230430142000 -0300" stop="20230430154000 -0300" channel="GLOBO RJ">
+    <title lang="pt">The Voice Kids</title>
+  </programme>
+  <programme start="20230430154000 -0300" stop="20230430180500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Futebol 2023</title>
+  </programme>
+  <programme start="20230430180500 -0300" stop="20230430203000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Domingão Com Huck</title>
+  </programme>
+  <programme start="20230430203000 -0300" stop="20230430231000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Fantástico</title>
+  </programme>
+  <programme start="20230430231000 -0300" stop="20230501004000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Big Brother Brasil 23</title>
+  </programme>
+  <programme start="20230501004000 -0300" stop="20230501012500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Circuito Sertanejo</title>
+  </programme>
+  <programme start="20230501012500 -0300" stop="20230501031500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Domingo Maior</title>
+  </programme>
+  <programme start="20230501031500 -0300" stop="20230501040000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Comédia Na Madruga</title>
+  </programme>
+  <programme start="20230501040000 -0300" stop="20230501060000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20230501060000 -0300" stop="20230501083000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Bom Dia SP</title>
+  </programme>
+  <programme start="20230501083000 -0300" stop="20230501093000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20230501093000 -0300" stop="20230501103500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Encontro com Patrícia Poeta</title>
+  </programme>
+  <programme start="20230501103500 -0300" stop="20230501114500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Mais Você</title>
+  </programme>
+  <programme start="20230501114500 -0300" stop="20230501130000 -0300" channel="GLOBO RJ">
+    <title lang="pt">SP1</title>
+  </programme>
+  <programme start="20230501130000 -0300" stop="20230501132500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20230501132500 -0300" stop="20230501144500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20230501144500 -0300" stop="20230501153000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Chocolate com Pimenta</title>
+  </programme>
+  <programme start="20230501153000 -0300" stop="20230501171500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Sessão da Tarde</title>
+  </programme>
+  <programme start="20230501171500 -0300" stop="20230501182500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Vale a Pena Ver de Novo: O Rei do Gado</title>
+  </programme>
+  <programme start="20230501182500 -0300" stop="20230501191000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Amor Perfeito</title>
+  </programme>
+  <programme start="20230501191000 -0300" stop="20230501194000 -0300" channel="GLOBO RJ">
+    <title lang="pt">SP2</title>
+  </programme>
+  <programme start="20230501194000 -0300" stop="20230501203000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Vai na Fé</title>
+  </programme>
+  <programme start="20230501203000 -0300" stop="20230501212000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20230501212000 -0300" stop="20230501222500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Travessia</title>
+  </programme>
+  <programme start="20230501222500 -0300" stop="20230501234500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Big Brother Brasil 23</title>
+  </programme>
+  <programme start="20230424210000 -0300" stop="20230424230000 -0300" channel="Megapix">
+    <title lang="pt">Os Farofeiros</title>
+  </programme>
+  <programme start="20230424230000 -0300" stop="20230424231500 -0300" channel="Megapix">
+    <title lang="pt">Megapix Curtas: Depois Daquela Festa</title>
+  </programme>
+  <programme start="20230424231500 -0300" stop="20230425013000 -0300" channel="Megapix">
+    <title lang="pt">Dupla Explosiva</title>
+  </programme>
+  <programme start="20230425013000 -0300" stop="20230425031500 -0300" channel="Megapix">
+    <title lang="pt">Perigo Na Montanha</title>
+  </programme>
+  <programme start="20230425031500 -0300" stop="20230425050500 -0300" channel="Megapix">
+    <title lang="pt">Estado de Calamidade</title>
+  </programme>
+  <programme start="20230425050500 -0300" stop="20230425071000 -0300" channel="Megapix">
+    <title lang="pt">No Dia do Seu Casamento</title>
+  </programme>
+  <programme start="20230425071000 -0300" stop="20230425084000 -0300" channel="Megapix">
+    <title lang="pt">Pokémon o Filme</title>
+  </programme>
+  <programme start="20230425084000 -0300" stop="20230425102500 -0300" channel="Megapix">
+    <title lang="pt">Meu Malvado Favorito</title>
+  </programme>
+  <programme start="20230425102500 -0300" stop="20230425122500 -0300" channel="Megapix">
+    <title lang="pt">Sem Escalas</title>
+  </programme>
+  <programme start="20230425122500 -0300" stop="20230425142500 -0300" channel="Megapix">
+    <title lang="pt">Refém do Jogo</title>
+  </programme>
+  <programme start="20230425142500 -0300" stop="20230425163500 -0300" channel="Megapix">
+    <title lang="pt">Feito Na América</title>
+  </programme>
+  <programme start="20230425163500 -0300" stop="20230425190500 -0300" channel="Megapix">
+    <title lang="pt">Velozes E Furiosos 8</title>
+  </programme>
+  <programme start="20230425190500 -0300" stop="20230425210000 -0300" channel="Megapix">
+    <title lang="pt">Xerifes Megapix: Rango</title>
+  </programme>
+  <programme start="20230425210000 -0300" stop="20230425231000 -0300" channel="Megapix">
+    <title lang="pt">Xerifes Megapix</title>
+  </programme>
+  <programme start="20230425231000 -0300" stop="20230425232000 -0300" channel="Megapix">
+    <title lang="pt">Megapix Curtas: Stone Heart</title>
+  </programme>
+  <programme start="20230425232000 -0300" stop="20230426012000 -0300" channel="Megapix">
+    <title lang="pt">Xerifes Megapix: O Último Desafio</title>
+  </programme>
+  <programme start="20230426012000 -0300" stop="20230426031000 -0300" channel="Megapix">
+    <title lang="pt">Sem Controle</title>
+  </programme>
+  <programme start="20230426031000 -0300" stop="20230426045500 -0300" channel="Megapix">
+    <title lang="pt">Prisão Estelar</title>
+  </programme>
+  <programme start="20230426045500 -0300" stop="20230426064000 -0300" channel="Megapix">
+    <title lang="pt">Willy's Wonderland: Parque Maldito</title>
+  </programme>
+  <programme start="20230426064000 -0300" stop="20230426083000 -0300" channel="Megapix">
+    <title lang="pt">Astronauta</title>
+  </programme>
+  <programme start="20230426083000 -0300" stop="20230426100500 -0300" channel="Megapix">
+    <title lang="pt">Além das Profundezas</title>
+  </programme>
+  <programme start="20230426100500 -0300" stop="20230426124500 -0300" channel="Megapix">
+    <title lang="pt">Náufrago</title>
+  </programme>
+  <programme start="20230426124500 -0300" stop="20230426150000 -0300" channel="Megapix">
+    <title lang="pt">Indiana Jones E O Templo Da Perdição</title>
+  </programme>
+  <programme start="20230426150000 -0300" stop="20230426165000 -0300" channel="Megapix">
+    <title lang="pt">Vovó...zona</title>
+  </programme>
+  <programme start="20230426165000 -0300" stop="20230426185000 -0300" channel="Megapix">
+    <title lang="pt">Os Farofeiros</title>
+  </programme>
+  <programme start="20230426185000 -0300" stop="20230426210000 -0300" channel="Megapix">
+    <title lang="pt">Dupla Explosiva</title>
+  </programme>
+  <programme start="20230426210000 -0300" stop="20230426225500 -0300" channel="Megapix">
+    <title lang="pt">Powerpix: John Wick</title>
+  </programme>
+  <programme start="20230426225500 -0300" stop="20230426231000 -0300" channel="Megapix">
+    <title lang="pt">Megapix Curtas: Contra-filé</title>
+  </programme>
+  <programme start="20230426231000 -0300" stop="20230427011000 -0300" channel="Megapix">
+    <title lang="pt">Xxx: Reativado</title>
+  </programme>
+  <programme start="20230427011000 -0300" stop="20230427030000 -0300" channel="Megapix">
+    <title lang="pt">Adrenalina (2006)</title>
+  </programme>
+  <programme start="20230427030000 -0300" stop="20230427045000 -0300" channel="Megapix">
+    <title lang="pt">Os Segredos do Castelo</title>
+  </programme>
+  <programme start="20230427045000 -0300" stop="20230427064500 -0300" channel="Megapix">
+    <title lang="pt">O Poder e o Impossível</title>
+  </programme>
+  <programme start="20230427064500 -0300" stop="20230427083000 -0300" channel="Megapix">
+    <title lang="pt">As Mil Palavras</title>
+  </programme>
+  <programme start="20230427083000 -0300" stop="20230427103500 -0300" channel="Megapix">
+    <title lang="pt">Antes Só do Que Mal Casado</title>
+  </programme>
+  <programme start="20230427103500 -0300" stop="20230427125500 -0300" channel="Megapix">
+    <title lang="pt">Crepúsculo</title>
+  </programme>
+  <programme start="20230427125500 -0300" stop="20230427150500 -0300" channel="Megapix">
+    <title lang="pt">Robin Hood: A Origem</title>
+  </programme>
+  <programme start="20230427150500 -0300" stop="20230427170500 -0300" channel="Megapix">
+    <title lang="pt">Nanny McPhee E As Lições Mágicas</title>
+  </programme>
+  <programme start="20230427170500 -0300" stop="20230427184500 -0300" channel="Megapix">
+    <title lang="pt">Meu Malvado Favorito 3</title>
+  </programme>
+  <programme start="20230427184500 -0300" stop="20230427185500 -0300" channel="Megapix">
+    <title lang="pt">Megapix Curtas: Umbrella</title>
+  </programme>
+  <programme start="20230427185500 -0300" stop="20230427210000 -0300" channel="Megapix">
+    <title lang="pt">Cosmoball</title>
+  </programme>
+  <programme start="20230427210000 -0300" stop="20230427232500 -0300" channel="Megapix">
+    <title lang="pt">Sessão Interativa Megapix</title>
+  </programme>
+  <programme start="20230427232500 -0300" stop="20230428012000 -0300" channel="Megapix">
+    <title lang="pt">Sessão Interativa Megapix</title>
+  </programme>
+  <programme start="20230428012000 -0300" stop="20230428030000 -0300" channel="Megapix">
+    <title lang="pt">Guerreiros Do Futuro</title>
+  </programme>
+  <programme start="20230428030000 -0300" stop="20230428045500 -0300" channel="Megapix">
+    <title lang="pt">Velocidade Mortal</title>
+  </programme>
+  <programme start="20230428045500 -0300" stop="20230428064500 -0300" channel="Megapix">
+    <title lang="pt">Filth</title>
+  </programme>
+  <programme start="20230428064500 -0300" stop="20230428083000 -0300" channel="Megapix">
+    <title lang="pt">O Redentor</title>
+  </programme>
+  <programme start="20230428083000 -0300" stop="20230428101500 -0300" channel="Megapix">
+    <title lang="pt">A Tumba Do Dragão</title>
+  </programme>
+  <programme start="20230428101500 -0300" stop="20230428121500 -0300" channel="Megapix">
+    <title lang="pt">Rango</title>
+  </programme>
+  <programme start="20230428121500 -0300" stop="20230428143000 -0300" channel="Megapix">
+    <title lang="pt">Cosmoball</title>
+  </programme>
+  <programme start="20230428143000 -0300" stop="20230428165500 -0300" channel="Megapix">
+    <title lang="pt">Jurassic Park</title>
+  </programme>
+  <programme start="20230428165500 -0300" stop="20230428190000 -0300" channel="Megapix">
+    <title lang="pt">Tô Ryca!</title>
+  </programme>
+  <programme start="20230428190000 -0300" stop="20230428210000 -0300" channel="Megapix">
+    <title lang="pt">Especial Amizades Inesperadas: Intocáveis</title>
+  </programme>
+  <programme start="20230428210000 -0300" stop="20230428224000 -0300" channel="Megapix">
+    <title lang="pt">Especial Amizades Inesperadas: Shrek 2</title>
+  </programme>
+  <programme start="20230428224000 -0300" stop="20230429005000 -0300" channel="Megapix">
+    <title lang="pt">Especial Amizades Inesperadas: Bumblebee</title>
+  </programme>
+  <programme start="20230429005000 -0300" stop="20230429031000 -0300" channel="Megapix">
+    <title lang="pt">Cinquenta Tons de Cinza</title>
+  </programme>
+  <programme start="20230429031000 -0300" stop="20230429050500 -0300" channel="Megapix">
+    <title lang="pt">Correndo Por Um Sonho</title>
+  </programme>
+  <programme start="20230429050500 -0300" stop="20230429071000 -0300" channel="Megapix">
+    <title lang="pt">Um Príncipe em Minha Vida</title>
+  </programme>
+  <programme start="20230429071000 -0300" stop="20230429091000 -0300" channel="Megapix">
+    <title lang="pt">O Pequeno Órfão</title>
+  </programme>
+  <programme start="20230429091000 -0300" stop="20230429112000 -0300" channel="Megapix">
+    <title lang="pt">Eureka Seven: Boa Noite. Durmam Bem. Jovens Amantes</title>
+  </programme>
+  <programme start="20230429112000 -0300" stop="20230429130000 -0300" channel="Megapix">
+    <title lang="pt">Madagascar 2</title>
+  </programme>
+  <programme start="20230429130000 -0300" stop="20230429144000 -0300" channel="Megapix">
+    <title lang="pt">Meu Malvado Favorito 3</title>
+  </programme>
+  <programme start="20230429144000 -0300" stop="20230429171000 -0300" channel="Megapix">
+    <title lang="pt">Milagre na Cela 7</title>
+  </programme>
+  <programme start="20230429171000 -0300" stop="20230429191000 -0300" channel="Megapix">
+    <title lang="pt">Sessão Grandes Filmes</title>
+  </programme>
+  <programme start="20230429191000 -0300" stop="20230429210000 -0300" channel="Megapix">
+    <title lang="pt">O Último Desafio</title>
+  </programme>
+  <programme start="20230429210000 -0300" stop="20230429232000 -0300" channel="Megapix">
+    <title lang="pt">Deuses Do Egito</title>
+  </programme>
+  <programme start="20230429232000 -0300" stop="20230430011000 -0300" channel="Megapix">
+    <title lang="pt">A Protetora</title>
+  </programme>
+  <programme start="20230430011000 -0300" stop="20230430030000 -0300" channel="Megapix">
+    <title lang="pt">Céu em Chamas (2019)</title>
+  </programme>
+  <programme start="20230430030000 -0300" stop="20230430051000 -0300" channel="Megapix">
+    <title lang="pt">Na Selva</title>
+  </programme>
+  <programme start="20230430051000 -0300" stop="20230430070000 -0300" channel="Megapix">
+    <title lang="pt">Hoje Eu Quero Voltar Sozinho</title>
+  </programme>
+  <programme start="20230430070000 -0300" stop="20230430090500 -0300" channel="Megapix">
+    <title lang="pt">Até Que a Sorte nos Separe 2</title>
+  </programme>
+  <programme start="20230430090500 -0300" stop="20230430111500 -0300" channel="Megapix">
+    <title lang="pt">A Escolha Perfeita 2</title>
+  </programme>
+  <programme start="20230430111500 -0300" stop="20230430132500 -0300" channel="Megapix">
+    <title lang="pt">Sessão Retrô: De Volta Para o Futuro Parte Iii</title>
+  </programme>
+  <programme start="20230430132500 -0300" stop="20230430150500 -0300" channel="Megapix">
+    <title lang="pt">Shrek 2</title>
+  </programme>
+  <programme start="20230430150500 -0300" stop="20230430165500 -0300" channel="Megapix">
+    <title lang="pt">Vovó... Zona 2</title>
+  </programme>
+  <programme start="20230430165500 -0300" stop="20230430191500 -0300" channel="Megapix">
+    <title lang="pt">A Múmia (1999)</title>
+  </programme>
+  <programme start="20230430191500 -0300" stop="20230430210000 -0300" channel="Megapix">
+    <title lang="pt">O Lutador (2006)</title>
+  </programme>
+  <programme start="20230430210000 -0300" stop="20230430225500 -0300" channel="Megapix">
+    <title lang="pt">Sessão Megapix: O Quarto dos Desejos</title>
+  </programme>
+  <programme start="20230430225500 -0300" stop="20230501012000 -0300" channel="Megapix">
+    <title lang="pt">Jack Reacher: O Último Tiro</title>
+  </programme>
+  <programme start="20230501012000 -0300" stop="20230501030500 -0300" channel="Megapix">
+    <title lang="pt">Na Ponta da Bala</title>
+  </programme>
+  <programme start="20230501030500 -0300" stop="20230501045000 -0300" channel="Megapix">
+    <title lang="pt">Na Rota do Tráfico</title>
+  </programme>
+  <programme start="20230501045000 -0300" stop="20230501070500 -0300" channel="Megapix">
+    <title lang="pt">Detetive Chinatown 2</title>
+  </programme>
+  <programme start="20230501070500 -0300" stop="20230501092000 -0300" channel="Megapix">
+    <title lang="pt">Questão De Tempo</title>
+  </programme>
+  <programme start="20230501092000 -0300" stop="20230501105500 -0300" channel="Megapix">
+    <title lang="pt">Renascida Do Inferno</title>
+  </programme>
+  <programme start="20230501105500 -0300" stop="20230501125000 -0300" channel="Megapix">
+    <title lang="pt">A Última Chance</title>
+  </programme>
+  <programme start="20230501125000 -0300" stop="20230501144500 -0300" channel="Megapix">
+    <title lang="pt">Instinto Predador</title>
+  </programme>
+  <programme start="20230501144500 -0300" stop="20230501165000 -0300" channel="Megapix">
+    <title lang="pt">Morte Súbita</title>
+  </programme>
+  <programme start="20230501165000 -0300" stop="20230501191500 -0300" channel="Megapix">
+    <title lang="pt">Cidade de Deus</title>
+  </programme>
+  <programme start="20230501191500 -0300" stop="20230501210000 -0300" channel="Megapix">
+    <title lang="pt">Sessão Megapix: O Quarto dos Desejos</title>
+  </programme>
+  <programme start="20230501210000 -0300" stop="20230501232500 -0300" channel="Megapix">
+    <title lang="pt">Missão: Impossível</title>
+  </programme>
+  <programme start="20230501232500 -0300" stop="20230501234000 -0300" channel="Megapix">
+    <title lang="pt">Megapix Curtas: Contra-filé</title>
+  </programme>
+</tv>
